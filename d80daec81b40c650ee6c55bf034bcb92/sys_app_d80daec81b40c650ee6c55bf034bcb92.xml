@@ -23,7 +23,7 @@
         <scoped_administration>false</scoped_administration>
         <short_description/>
         <source>x_csc_feapp</source>
-        <store_correlation_id>REPOAPP0000004936</store_correlation_id>
+        <store_correlation_id>REPOAPP0000004937</store_correlation_id>
         <store_url/>
         <subscription_entitlement/>
         <sys_class_name>sys_app</sys_class_name>
@@ -31,15 +31,15 @@
         <sys_created_by>sergiu.novac@snc</sys_created_by>
         <sys_created_on>2024-01-25 17:03:32</sys_created_on>
         <sys_id>d80daec81b40c650ee6c55bf034bcb92</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-04-19 12:46:27</sys_updated_on>
+        <sys_updated_on>2024-04-19 12:51:32</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>
         <user_role/>
         <vendor/>
         <vendor_prefix/>
-        <version>1.0.2</version>
+        <version>1.0.3</version>
     </sys_app>
 </record_update>
